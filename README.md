@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pdh9311&hide=contribs,prs&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdh9311&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdh9311&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **pdh9311/pdh9311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
