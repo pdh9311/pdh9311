@@ -6,7 +6,9 @@
 - ✨🔭 I’m DongHyeon Park
 - 📫 How to reach me: pdh6381@naver.com
 - My Notion blog : https://donpark.notion.site/Coding-Study-d8c8d13072b64874ae6ecff89b4c7c75
-- Project : https://github.com/pdh9311/42
+- 42 Record : https://donpark.notion.site/42Seoul-05a75fdcd4314cb68c9ec84ba6841e78
+- 42 Project : https://github.com/pdh9311/42
+- DOQMT Project : www.doqmt.com
 - 🌱 I’m currently learning ...
 <!-- - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
